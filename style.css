@@ -1,0 +1,159 @@
+
+
+.container {
+  background-color: rgb(211, 51, 198);
+  padding: 40px;
+}
+.box-1 {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+.boxes {
+  background-color: #ffc600;
+  width: 19%;
+  display: flex;
+  justify-content: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  border: 1px none #000;
+  margin-right: 15px;
+  font-size: large;
+  padding: 20px;
+  
+}
+.section-1 {
+  background: url(images/taco.jpg) no-repeat center center;
+  background-size: cover;
+  width: 65%;
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.special{
+    margin: 0 0 25px 20px;
+}
+.boxes-1 {
+  color: #000;
+  background-color: #ffc600;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 30px;
+  padding: 8px;
+}
+.boxes-2 {
+  color: #000;
+  background-color: #ffc600;
+  font-size: 15px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 8px;
+}
+.box-2 {
+  display: flex;
+  margin-bottom: 30px;
+}
+.section-2 {
+  width: 32.5%;
+  margin-left: 30px;
+  
+}
+.rupees-1{
+    background-color: #ffc600;
+    margin-bottom: 20px;
+    text-align: center;
+    padding: 52px;
+}
+.rupees-2{
+    background-color: #ffc600;
+    text-align: center;
+    padding: 52px ;
+}
+.roka{
+    font-size: 60px;
+    font-weight: 300;   
+}
+.taste{
+    font-size: 15px;
+}
+.box-3{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+.part{
+    background-color: #fff;
+    margin:10px;
+    padding: 30px;
+    text-align: center;
+}
+.text{
+    color: rgba(0,0,0,0.5);
+    font-weight: bolder;
+    font-size: 14px;
+}
+.image{
+    margin-bottom: 15px;
+}
+.box-4{
+    background-color: #fff;
+    margin-bottom: 30px;
+}
+.great{
+    display: flex;
+    padding: 60px;
+}
+.start{
+    display: flex;
+    align-items: center;
+}
+.end{
+    display: flex;
+    align-items: center;
+    
+}
+.heading{
+    font-size: x-large;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    margin-bottom: 12px;
+}
+.property{
+    font-size: 15px;
+    font-weight: 900;
+    margin-bottom: 12px;
+}
+.excitment{
+    font-size: 15px;
+    font-weight: 900;
+    margin-bottom: 20px;
+}
+.button-container button{
+    background-color: #ffc600;
+    padding: 10px;
+    border: none;
+}
+.seperator{
+    border: 6px solid #ffc600;
+}
+.box5-heading{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 30px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-bottom: 30px;
+}
+.box-5{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.box-5 > div{
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+.box-5 img{
+    width:270px;
+    height: 270px;
+}
